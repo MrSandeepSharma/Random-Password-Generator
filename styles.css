@@ -39,6 +39,7 @@ h1, p {
 
 .generate-btn {
     background: #10B981;
+    font-family: inherit;
     color: white;
     padding: 8px 16px;
     margin: 40px 0 25px;
